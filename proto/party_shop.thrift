@@ -9,7 +9,7 @@ namespace erlang party_shop
 service PartyShopService {
 
     /**
-     * Получение идентификаторов машазинов по party в разрезе тестовой или продовой среды
+     * Получение идентификаторов магазинов по party в разрезе тестовой или продовой среды
      **/
     list<base.ID> GetShopsIds(1: base.ID party_id, 2: bool is_test)
 
