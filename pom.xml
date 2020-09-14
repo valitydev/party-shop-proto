@@ -14,10 +14,8 @@
     <version>SNAPSHOT</version>
     <packaging>jar</packaging>
 
-
     <name>Party shop</name>
     <description>Generates jar artifact containing compiled thrift classes based on generated thrift IDL files</description>
-
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
