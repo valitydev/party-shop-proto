@@ -1,5 +1,5 @@
 {application, party_shop_proto, [
-    {description, "Thrift proto for party-shop service"},
+    {description, "Thrift proto for vortigon service"},
     {vsn, "0.1.0"},
     {applications, [
         kernel,

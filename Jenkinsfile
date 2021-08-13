@@ -1,7 +1,7 @@
 #!groovy
 // -*- mode: groovy -*-
 
-build('party-shop-proto', 'docker-host') {
+build('vortigon-proto', 'docker-host') {
     checkoutRepo()
     loadBuildUtils()
 

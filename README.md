@@ -1,1 +1,1 @@
-# party-shop-proto
+# vortigon-proto

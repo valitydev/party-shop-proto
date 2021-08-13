@@ -10,11 +10,11 @@
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>party-shop-proto</artifactId>
+    <artifactId>vortigon-proto</artifactId>
     <version>SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Party shop</name>
+    <name>Vortigon</name>
     <description>Generates jar artifact containing compiled thrift classes based on generated thrift IDL files</description>
 
     <properties>
