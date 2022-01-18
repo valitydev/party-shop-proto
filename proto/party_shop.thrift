@@ -1,6 +1,6 @@
 include "base.thrift"
 
-namespace java com.rbkmoney.damsel.vortigon
+namespace java dev.vality.damsel.vortigon
 namespace erlang vortigon
 
 typedef string PartyId
